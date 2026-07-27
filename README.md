@@ -58,7 +58,7 @@ https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dat
 
 **Kaggle Link**
 
-https://www.kaggle.com/datasets/ranafayezz/credit-card-fraud
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 **Description**
 
@@ -126,6 +126,7 @@ Hyperparameter tuning was performed using:
 
 - GridSearchCV
 - Cross Validation (CV = 5)
+- KFOLD Technique
 
 ---
 
@@ -165,7 +166,7 @@ Credit-Card-Fraud-Detection/
 │
 ├── data/
 │   ├── creditcard_2023.csv
-│   ├── credit_card_fraud_imbalance.csv
+│   ├── credit_card.csv
 │
 ├── notebooks/
 │   ├── credit_card_fraud.ipynb
